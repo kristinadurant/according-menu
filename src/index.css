@@ -33,7 +33,7 @@ h6 {
 .questionAnswer p {
   display: flex;
   align-items: center;
-  transition: height 0.2s;
+  transition: height 0.3s;
   height: 2.5rem;
 }
 .questionAnswer p:first-child {
